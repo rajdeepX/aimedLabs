@@ -23,7 +23,7 @@ npm install
 4. Development Server
 To start the development server, use the following command:
 npm run dev
-This command will launch the Vite development server, and you can view your project in your web browser at http://localhost:3000.
+This command will launch the Vite development server, and you can view your project in your web browser.
 
 5. Build for Production
 To build your project for production, use the following command:
